@@ -12,6 +12,13 @@
     "lodash": "4.17.19",
     "axios": "0.21.0",
     "minimist": "0.0.8",
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.0",
+    "jsonwebtoken": "8.5.0",
+    "handlebars": "4.0.0",
+    "serialize-javascript": "2.1.1",
+    "qs": "6.5.2"
+  },
+  "overrides": {
+    "postcss": "^8.4.35"
   }
 }
