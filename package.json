@@ -15,7 +15,7 @@
     "node-fetch": "2.6.0",
     "jsonwebtoken": "8.5.0",
     "handlebars": "4.0.0",
-    "serialize-javascript": "2.1.1",
+    "serialize-javascript": "7.0.5",
     "qs": "6.5.2"
   },
   "overrides": {
